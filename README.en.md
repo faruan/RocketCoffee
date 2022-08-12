@@ -1,6 +1,6 @@
 <br>
 
-# **[FRONTEND] - Menu Digital - Maratona Explorer 3.0**
+# **[FRONTEND] - Digital Menu - Maratona Explorer 3.0**
 
 <img src="https://evento.rocketseat.com.br/_next/image?url=%2Flogos%2Fmarathon-explorer-logo.svg&w=256&q=100" alt="Logo Maratona RocketSeat" width="300">
 
